@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "579071991709",
+    "firebase_url": "https://jodhpurdev-6d24c-default-rtdb.firebaseio.com",
+    "project_id": "jodhpurdev-6d24c",
+    "storage_bucket": "jodhpurdev-6d24c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:579071991709:android:81dc80f41428b2f6b3d974",
+        "android_client_info": {
+          "package_name": "com.example.firebaseusersign"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "579071991709-nmg6l01m6m2s9g93km1t32p79umpc68j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9IEQQckYi7e1uRMa8Xhe1ahfA5TAHe0E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "579071991709-nmg6l01m6m2s9g93km1t32p79umpc68j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
